@@ -1,0 +1,22 @@
+{
+  "name": "pong",
+  "version": "0.1.0",
+  "description": "An HTML5 Pong game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NomeTemporaneo/pong.git"
+  },
+  "author": "NomeTemporaneo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NomeTemporaneo/pong/issues"
+  },
+  "homepage": "https://github.com/NomeTemporaneo/pong#readme",
+  "dependencies": {
+    "phaser": "^3.15.1"
+  }
+}
