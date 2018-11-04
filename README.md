@@ -11,13 +11,16 @@ It's in full development (see TODO list to check its status).
 
 Next patch:
 
-- Create a bar and moving them.
-- Abolish the wall behind the bar.
-- Make the ball bounce against the bar.
+- Abolish the horizontal walls.
+- Ball respawn
+- Score
 
 Future patches:
 
+- Design HUD
 - How to create the AI of the enemy?
+- Create a Title screen
+- Multiplayer mode
 
 ### Prerequisites
 
@@ -25,7 +28,7 @@ You need node.js and npm configured and installed.
 
 ### Installing
 
-Install [live-server] globally ( npm install -g live-server ) and just type "live-server" and you will get the dev env in localhost.
+Install live-server globally ( npm install -g live-server ) and just type "live-server" and you will get the dev env in localhost.
 
 ## Built With
 
@@ -38,6 +41,10 @@ Be part of our community! I can't understand why I am saying all of these in eng
 
 ## Versioning
 
+V 0.3.0
+
+- Added the bar, movement and collision with the ball.
+
 V 0.2.0
 
 - Added main project (now you see a ball boucing into a space).
@@ -49,7 +56,7 @@ V 0.1.0
 
 ## Authors
 
-- **Marco Sandri** - _Initial work_ - [MarcoSandri](https://github.com/Marcosandri-dev)
+- **Marco Sandri** - _Initial work_ - [Marco Sandri GitHub](https://github.com/Marcosandri-dev)
 
 ## License
 
